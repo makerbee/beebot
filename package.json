@@ -1,0 +1,19 @@
+{
+  "name": "beebot",
+  "version": "0.0.1",
+  "private": true,
+  "description": "beebot is makerbee's hubot",
+  "dependencies": {
+    "hubot":         "*",
+    "hubot-scripts": "*",
+    "hubot-hipchat": "*",
+    "coffee-script": "*",
+    "hubot-cron": ">= 0.1.0"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  },
+  "author": "honbin",
+  "license": "MIT"
+}
